@@ -1,0 +1,3 @@
+[submodule "blog_backend"]
+	path = blog_backend
+	url = https://github.com/RAJAGOPALAN-GANGADHARAN/Backend-for-blogger.git
